@@ -4,3 +4,4 @@ developing java lines
 Note js application
 phython application
 we manage java applicatins etc
+bug removed
